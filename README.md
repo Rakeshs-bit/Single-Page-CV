@@ -8,6 +8,7 @@ It focuses on semantic structure, SEO basics, and readiness for future styling w
 ## 🌐 Live Project
 
 👉 https://github.com/Rakeshs-bit/Single-Page-CV
+👉 https://roadmap.sh/projects/single-page-cv
 
 ---
 
