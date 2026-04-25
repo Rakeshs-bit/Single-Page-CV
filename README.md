@@ -5,6 +5,12 @@ It focuses on semantic structure, SEO basics, and readiness for future styling w
 
 ---
 
+## 🌐 Live Project
+
+👉 https://github.com/Rakeshs-bit/Single-Page-CV
+
+---
+
 ## 🚀 Features
 
 - Semantic HTML structure (header, section, footer)
